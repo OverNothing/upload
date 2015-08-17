@@ -1,7 +1,0 @@
-sleep 3 &
-sleep 5 &
-sleep 2 &
-sleep 3 &
-sleep 4 &
-sleep 8 &
-sleep 10 &
